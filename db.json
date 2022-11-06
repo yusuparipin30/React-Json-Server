@@ -1,19 +1,24 @@
 {
   "products": [
     {
-      "title": "Product 3",
-      "price": "4444444444",
-      "id": 3
-    },
-    {
-      "id": 4,
-      "title": "Product 4",
-      "price": 763
-    },
-    {
-      "title": "Product 5",
-      "price": 389,
+      "title": "Besi",
+      "price": "500000",
       "id": 5
+    },
+    {
+      "title": "Kereta",
+      "price": "100000000",
+      "id": 13
+    },
+    {
+      "title": "lemari",
+      "price": "4000000",
+      "id": 14
+    },
+    {
+      "title": "rumah",
+      "price": "500000000",
+      "id": 15
     }
   ]
 }
